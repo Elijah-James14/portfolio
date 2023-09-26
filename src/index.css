@@ -1,0 +1,81 @@
+@font-face {
+  font-family: "ClashDisplay";
+  src: local("ClashDisplay"), url("./fonts/ClashDisplay-Bold.woff");
+}
+
+@font-face {
+  font-family: "ClashDisplay";
+  src: local("ClashDisplay"), url("./fonts/ClashDisplay-Extralight.woff");
+}
+
+@font-face {
+  font-family: "ClashDisplay";
+  src: local("ClashDisplay"), url("./fonts/ClashDisplay-Light.woff");
+}
+
+@font-face {
+  font-family: "ClashDisplay";
+  src: local("ClashDisplay"), url("./fonts/ClashDisplay-Medium.woff");
+}
+
+@font-face {
+  font-family: "ClashDisplay";
+  src: local("ClashDisplay"), url("./fonts/ClashDisplay-Regular.woff");
+}
+
+@font-face {
+  font-family: "ClashDisplay";
+  src: local("ClashDisplay"), url("./fonts/ClashDisplay-Semibold.woff");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: local("Montserrat"), url("./fonts/Montserrat-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: local("Montserrat"), url("./fonts/Montserrat-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: local("Montserrat"), url("./fonts/Montserrat-Light.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: local("Montserrat"), url("./fonts/Montserrat-Medium.ttf");
+}
+@font-face {
+  font-family: "Montserrat";
+  src: local("Montserrat"), url("./fonts/Montserrat-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: local("Montserrat"), url("./fonts/Montserrat-SemiBold.ttf");
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+}
+
+li {
+  font-family: "Montserrat", sans-serif;
+}
+
+span {
+  font-family: "ClashDisplay", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "ClashDisplay", sans-serif;
+}
+
+button {
+  font-family: "Montserrat", sans-serif;
+}
